@@ -13,6 +13,3 @@ The Bank Account Management App is a user-friendly software application develope
 **Text File Data Storage:** The app has a built-in feature that allows users to save their account data to a text file. This functionality ensures that important financial information is securely stored and easily accessible for future reference.
 
 **Data Loading:** Users can load member data from a text file, making it simple to restore their account information and continue managing their accounts.
-
-
-The Bank Account Management App simplifies the process of tracking and handling financial matters, providing a convenient and efficient solution for individuals seeking better control over their bank accounts.
